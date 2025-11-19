@@ -102,7 +102,7 @@ Battle Table:
    * Relationer
    * Cardinalities (1:1, 1:M, M:N)
 
-![[Pokemon EER.png]]
+![Pokemon EER](Pokemon-EER.png)
 ### Del 3 – Relations­design i MySQL (DDL)
 
 **I må gerne bruge chatGPT til at generere insert statements og data**
